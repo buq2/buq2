@@ -22,6 +22,11 @@ I like having an impact by:
 I sometimes write technical blog posts. Here are the latest ones:
 
 <!-- BLOG-POST-LIST:START -->
+- [Packaging tools into self contained executable with PyInstaller](https://buq2.com/packaging-tools-into-self-contained-executable-with-pyinstaller/)
+- [Easy Conan + CMake template for C++ projects](https://buq2.com/easy-conan-cmake-template-for-c-projects/)
+- [Everyday Docker tips](https://buq2.com/everyday-docker-tips/)
+- [DIY Promaster/Peugeot Boxer/Citroen Relay/Jumper Roof Rack for Fiat Ducato 2018 model](https://buq2.com/diy-promaster-peugeot-boxer-citroen-relay-roof-rack-for-fiat-ducato-2018-model/)
+- [Zurich water fountain map for running and biking](https://buq2.com/zurich-water-fountain-map-for-running-and-biking/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 [Connect][linkedin] with me:
