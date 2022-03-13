@@ -10,12 +10,14 @@ I like having an impact by:
    - 🥽 AR/VR/SLAM
    - 🚗 Self-driving cars and mapping
    - 📱 On embedded devices
-- ⏩ Quick prototyping whole software stack for greenfield projects
-- 🎯 Evaluating and measuring algorithm/vision system quality
-- 🧰 Building tools to amplify team output
+- ⏩ Quick prototyping whole software stack
+- 🎯 Evaluating and measuring algorithm and vision system quality
+- 🧰 Building tools to increase team output
 - ✨ Speeding up neural networks
 - 💻 Low-level code and algorithm optimization and implementation
 - 👴 Modernizing legacy codebases
+
+---
 
 ### 🦥 Latest [Blog Posts][website]:
 
@@ -28,6 +30,8 @@ I sometimes write technical blog posts. Here are the latest ones:
 - [DIY Promaster/Peugeot Boxer/Citroen Relay/Jumper Roof Rack for Fiat Ducato 2018 model](https://buq2.com/diy-promaster-peugeot-boxer-citroen-relay-roof-rack-for-fiat-ducato-2018-model/)
 - [Zurich water fountain map for running and biking](https://buq2.com/zurich-water-fountain-map-for-running-and-biking/)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 ### 📫 [Connect][linkedin] with me:
 
